@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <meta charset = "utf-8" />
+          
+        <title>
+            FAQ
+        </title>
+          
+        <!-- add icon link -->
+        <link rel = "icon" href = 
+"acircle.png" 
+        type = "image/x-icon">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333; 
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: grey;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: grey;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+</style>
+</head>
+<body style="background-color:#1c1c1c;">
+
+<div class="navbar">
+  <a href="https://jevils.com">Home</a>
+  <div class="subnav">
+    <button class="subnavbtn">Menu <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="blog">Blog</a>
+      <a href="about">About</a>
+      <a href="FAQ">FAQ</a>
+      <a href="jevil">The Actual "Jevil" Part of this Website</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">HTML Testing <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="move">Moving Image</a>
+<a href="candy">Really, really, really, really long page with candy</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Projects <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="AustriaHungary">United States of Danubia </a>
+    <a href="music">Music </a>
+    <a href="videos">Videos/Recordings </a>
+    <a href="youtube">Youtube Uploads </a>
+    </div>
+  </div>
+  <div class="subnav">
+      <button class="subnavbtn">Archive <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="PughismTwo">Pughism Two</a>
+        <a href="PughismThree">Pughism Three</a>
+        <a href="ReallyBigText">me when the soviet union</a>
+    </div>
+  </div>
+  <a href="devlog">Devlog</a>
+  <a href="plans">Planned Features</a>
+<a href="credits">Credits</a>
+</div>
+
+<div style="padding:0 16px">
+  <h2 style="color:white;">FAQ that i definitely did not make up</h2>
+  <h3 style="color:white;">What did you use to buy and/or host this website?</h3>
+  <p style="color:white;">Namecheap.</p>
+  <h3 style="color:white;">How expensive does it cost to host this website?</h3>
+    <p style="color:white;">Around 50 dollars a year.</p>
+    <h3 style="color:white;">How long do you plan to host this website?</h3>
+        <p style="color:white;">Whatever I deem necessary.</p>
+         <h3 style="color:white;">What is the purpose of this website?</h3>
+    <p style="color:white;">I mentioned this in About, it's basically for me to experiment with stuff.</p>
+    <h3 style="color:white;">Are you planning to make a profit off of this?</h3>
+    <p style="color:white;">Nope.</p>
+    <h3 style="color:white;">Is this open source?</h3>
+    <p style="color:white;">Yeah, just send me an email at argonxenonboron@gmail.com asking for the code.</p>
+    <h3 style="color:white;">How frequently are updates going to occur?</h3>
+        <p style="color:white;">Honestly, no idea. If you really want a duration of time, at least once every few months.</p>
+            <h3 style="color:white;">How can I suggest ideas?</h3>
+        <p style="color:white;">Email me at argonxenonboron@gmail.com</p>
+</div>
+
+</body>
+</html>

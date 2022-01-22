@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+	<title>Pughism Three</title>
+	<!-- add icon link -->
+	<link href="acircle.png" rel="icon" type="image/x-icon" />
+	<style type="text/css">body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333; 
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: grey;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: grey;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+	</style>
+</head>
+<body style="background-color:#1c1c1c;">
+<div class="navbar">
+  <a href="https://jevils.com">Home</a>
+  <div class="subnav">
+    <button class="subnavbtn">Menu <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="blog">Blog</a>
+      <a href="about">About</a>
+      <a href="FAQ">FAQ</a>
+      <a href="jevil">The Actual "Jevil" Part of this Website</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">HTML Testing <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="move">Moving Image</a>
+<a href="candy">Really, really, really, really long page with candy</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Projects <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="AustriaHungary">United States of Danubia </a>
+    <a href="music">Music </a>
+    <a href="videos">Videos/Recordings </a>
+    <a href="youtube">Youtube Uploads </a>
+    </div>
+  </div>
+  <div class="subnav">
+      <button class="subnavbtn">Archive <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="PughismTwo">Pughism Two</a>
+        <a href="PughismThree">Pughism Three</a>
+        <a href="ReallyBigText">me when the soviet union</a>
+    </div>
+  </div>
+  <a href="devlog">Devlog</a>
+  <a href="plans">Planned Features</a>
+<a href="credits">Credits</a>
+</div>
+
+<div style="padding:0 16px">
+<h3 style="color:white;"><span style="font-size:20px;">Pughism 3: About that beer I owed ya&rsquo;</span></h3>
+
+<p style="color:white;">Chapter 1: The Menace Beer</p>
+
+<p style="color:white;">So I was riding on a highway with my horse-car, with my nuclear bomb, and I saw it. Yellow pug dude! I drove right up to him, with my horse-car. I opened the moving car, and I eyeballed him. Yellow pug dude looked very nervous, until he said &ldquo;GET OUT OF MY CAR!&rdquo; I took him, throttled him onto the ground, and talked to him. We agreed with each other to get in my horse-car and go to nuke Japan. We did that, but we felt sad after that because Japan was rebuilding after the nukes. So we went into space and explored, until I remembered. I owed him a beer! I didn&rsquo;t know which beer he wanted, so I tried to go on an adventure to find what beer he wanted. I didn&rsquo;t want to ask him, because I was scared what would happen. We went into the cargo bay right next to the airlock, and we talked to each other. Yellow pug dude asked &ldquo;GET OUT OF MY CAR!&rdquo; I responded &ldquo;GET OUT OF MY CAR!&rdquo; We both ran away into different directions, and unfortunately, I ended up in the airlock. Yellow pug dude secretly turned on the airlock, and I ended up in space.</p>
+
+<p style="color:white;">Chapter 2: Coronaronaronaronaronaronarona</p>
+
+<p style="color:white;">So I fell down into the atmosphere, and I saw the ship go into hyperdrive away from me. I went into a store to find some beers, and I found corona beer! There was none left, but there was a sticker on it saying &ldquo;Go to the ocean planet to find corona.&rdquo; I forgot what the ocean planet was, until I remembered what happened to Boat Dog. I went to the battleground and found the part of the baguette, asked a chef to fix it, he did, and I went to the ocean planet. The ocean planet was musty, where there were hurricanes everywhere. I found a small island to land on, and found some corona beer. All the beer was empty, until I found a KV-2 and shot it at Earth. It ended up landing in Tokyo, Florida. Everyone there almost died due to it, and then I ran away to get away from the Tank Police from getting me. I teleported back to Earth, where I decided to relax for a bit until the next adventure would come up, and it would&hellip;</p>
+
+<p style="color:white;">Chapter 3: Pog Pampers</p>
+
+<p style="color:white;">So Butter Dog would come to me and ask &ldquo;Let&rsquo;s get a time machine to reverse&rdquo; I didn&rsquo;t agree with that, but then I agreed. We tried to find a time machine but failed, but then succeeded. We found a store called &ldquo;Pog Pampers&rdquo; which sells time machines. We called Yellow pug dude to help us and he came. We asked &ldquo;your computer has virus&rdquo; to come with us, but he rejected. We went in the time machine, went to the battle, and tried to help everyone. We stole the gauntlet from the green figure, brought it back, clapped, and it felt like everyone came back, but it failed. The gauntlet was fake! The time machine broke down, we were out of money, and we needed something to do. We decided to go into the ship and nuke Japan one more time and deal with more pog enemies. With no one to go to, we decided to follow Shiba Lord, a mysterious figure friends with Pug Lord. It would take a long time to get to Shiba Lord, protected by various types of memes, with some of them even dead! This would scare us from trying to find Shiba Lord, but we had to find something to do, before we could save our friends.</p>
+
+<p style="color:white;">Chapter 4: Shiba Lord</p>
+
+<p style="color:white;">We teleported to the location of Shiba Lord and decided to start nuking everything near it to prevent any opposition. We found many memes there, so we landed, but they started attacking us. The area was tense, due to the fact that &ldquo;your computer has virus&rdquo; was the lead general, they were all over the place, we decided to use bioweapons and nukes against them. This worked very well, with most of the memes running away. We entered the gate to find Sweet T and Rocky defending a giant gate. Sweet T started devouring a bowl of cereal, and said &ldquo;They don&rsquo;t call me Sweet T for nothin&rsquo;!&rdquo; This scared all of us except Yellow pug dude, who screamed the slogan, scaring Sweet T away. Rocky started to bite us, until we threw it into the next timeline. It was just us and the giant gate, which we opened. The light was blinding, almost as if a godly deity was in there, then the light faded away, until&hellip;</p>
+
+<p style="color:white;">Chapter 5: Nile 🅱iver</p>
+
+<p style="color:white;">Shiba Lord saw us, and immediately greeted us by throwing spears at a cake. This scared boat dog, he even almost ran away, but we agreed to talk with Shiba Lord to give us any task. Shiba Lord gave us a task to kill the Green Figure that we saw earlier, with help from a new figure. Pax Evasion! Pax Evasion would look like a virus, but not actually a virus, and not look like a virus. He would take out his Shiba Teleporter Virus and teleport to the Nile River. Green Figure would be farming slimes, until Pax Evasion would throw a neon spear that looked like that one fish with armor we saw throw, and then we would nuke the Green Figure. He would die, steal his gauntlet, and save it for later. We teleported back to Shiba Lord who ordered us to capture a mysterious figure named &ldquo;MokePon&rdquo; Pax Evasion would start to become scared. We all didn&rsquo;t know what it was&hellip;</p>
+
+<p style="color:white;">Chapter 6: Stop, this title is becoming too long please help me, also this chapter is called &ldquo;Stop this title is becoming too long help, also this chapter is called &ldquo;Stop-</p>
+
+<p style="color:white;">We went to Japan and decided to nuke it one, final time. We started construction of a big bomb, stronger than any bomb ever, it was called &ldquo;The Pughist&rdquo;, and we would ride a plane. We would have to be in space in order to be safe. We would drop the nuke, and immediately, a flash of blue light would occur. Japan was erased instantly, with rocks exiting the atmosphere, and life ruined on Earth. We went lightspeed and entered a new timeline, and went to find the figure that Shiba Lord ordered us to capture. We went to the coordinates of the planet and started nuking it, until he was unconscious. There, we would put him in jail and begin to bring him to Shiba Lord. He had a weird hat that looked like a wizard hat, but actually did not look like a wizard hat. On the way we nuked Italy, which angered everyone. We brought a potato nuke in case he tried to escape, and he did. He sliced the jail in half and we set the potato, almost destroying the ship we were in.</p>
+
+<p style="color:white;">Chapter 7: The Figure Revealed</p>
+
+<p style="color:white;">We went to Gifted School, then blew it up, and found this kid named James Alabama Montgomery. We then decided to get MokePon and got him, bringing him to Shiba Lord. James Alabama Montgomery would decide to nuke Japan again, but would then explode due to spontaneous combustion. Also, Japan was gone. In the other timeline. We then went to do an SAT test and got 2401 on the test. We are SMRT. Shiba Lord destroys the SAT test and says &ldquo;rigged&rdquo; and proceeds to nuke Japan. He then completely annihilated Belgium from the universe. We then decided to go double lightspeed because Shiba figured out how to count to 2. Valve then came in and decided to count to 3, destroying the world in the process.</p>
+
+<p style="color:white;">Chapter 8: #no</p>
+
+<p style="color:white;">We then realized that we could just go back in time and stop him. We did, and Pug Lord and everyone came back. Boat Dog decided to destroy the universe, twice. But then we decided to bring it back. Pug Lord gave us a final nuke, and then used it on Japan, but accidentally destroyed the entire multiverse. We instead went into another multiverse and took over the world. We hired a new dude called Mayonnaise Sniper, and as the name suggests, sniped Mayonnaise on escalators. He took over the Earth and ruled over it. Mayonnaise Sniper decided to betray us and sniped Boat Dog, but Boat Dog is a god and decided to send it back to him, but Mayonnaise Sniper had a shield so it was sent back, and Boat Dog decided to send Chernobyl to him and he died, then revived, then died. He took the SAT test and got a score of &ldquo;I&rsquo;m dead&rdquo; #no was sent across the Earth and Earth decided to rebel against us but then was destroyed with another nuke.</p>
+
+<p style="color:white;">Chapter 9: airpod catch gotta shotty a body</p>
+
+<p style="color:white;">In the background, soldiers across the universe were nuking Japan for no reason. Boat Dog and the Ma</p>
+</div>
+</body>
+</html>

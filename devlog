@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <meta charset = "utf-8" />
+          
+        <title>
+            Jevils
+        </title>
+          
+        <!-- add icon link -->
+        <link rel = "icon" href = 
+"acircle.png" 
+        type = "image/x-icon">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333; 
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: grey;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: grey;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+</style>
+</head>
+<body style="background-color:#1c1c1c;">
+
+<div class="navbar">
+  <a href="https://jevils.com">Home</a>
+  <div class="subnav">
+    <button class="subnavbtn">Menu <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="blog">Blog</a>
+      <a href="about">About</a>
+      <a href="FAQ">FAQ</a>
+      <a href="jevil">The Actual "Jevil" Part of this Website</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">HTML Testing <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="move">Moving Image</a>
+<a href="candy">Really, really, really, really long page with candy</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Projects <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="AustriaHungary">United States of Danubia </a>
+    <a href="music">Music </a>
+    <a href="videos">Videos/Recordings </a>
+    <a href="youtube">Youtube Uploads </a>
+    </div>
+  </div>
+  <div class="subnav">
+      <button class="subnavbtn">Archive <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="PughismTwo">Pughism Two</a>
+        <a href="PughismThree">Pughism Three</a>
+        <a href="ReallyBigText">me when the soviet union</a>
+    </div>
+  </div>
+  <a href="devlog">Devlog</a>
+  <a href="plans">Planned Features</a>
+<a href="credits">Credits</a>
+</div>
+
+<div style="padding:0 16px">
+  <p style="color:white;">Logs colored in RED are major updates, Logs colored in GREEN are minor updates.</p>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.3.0.1 <br> 1/21/22 19:26 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">Moved where the new devlog is posted</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#E6676B;">Version 0.3 <br> 1/21/22 19:25 EST</h3>
+  <ul>
+  <li style="color:#E6676B;">Multiple new pages.</li>
+  <p style="color:#E6676B;">Probably the most fun major update I've done.
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.2.2 <br> 1/19/22 22:08 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">Added more features to the Jevil part of the website</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.2.1.1 <br> 1/19/22 20:05 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">Fixed last devlogs update time (again)</li>
+    <li style="color:#AFFF80;">Fixed Update ID for last devlog.</li>
+        <li style="color:#AFFF80;">Added another question to the FAQ.</li>
+        <li style="color:#AFFF80;">peanut🥜</li>
+        <li style="color:#AFFF80;">stretched a dog to oblivion</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.2.1 <br> 1/19/22 17:55 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">Fixed last devlogs update time.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#E6676B;">Version 0.2 <br> 1/19/22 16:44 EST</h3>
+  <ul>
+  <li style="color:#E6676B;">New page added. </li>
+  <li style="color:#E6676B;">Version ID's are now listed over updates.</li>
+<li style="color:#E6676B;">Warning added to Jevil page.</li>
+<li style="color:#E6676B;">Added more puppies.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.1.4 <br> 1/19/22 8:55 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">Added a few more additions to the Jevil page.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.1.3.2 <br> 1/18/22 18:13 EST</h3>
+    <ul>
+  <li style="color:#AFFF80;">Puppy image is now localized on the website itself.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.1.3.1 <br> 1/18/22 18:03 EST</h3>
+      <ul>
+  <li style="color:#AFFF80;">Fixed the last devlog time it was uploaded.</li>
+  <li style="color:#AFFF80;">Changed the color of the thingy at the top saying "logs colored in RED are major updates" back to white.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.1.3 <br> 1/18/22 18:02 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">New addition: Minor updates will be colored with GREEN, major updates will be colored with RED.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.1.2.2.1 <br> 1/18/22 17:54 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">Edited candy page to be longer again.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.1.2.2 <br>1/18/22 16:34 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">As a request, I added a donut in the middle of the candy page.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.1.2.1.1 <br> 1/18/22 8:45 EST</h3>
+    <ul>
+  <li style="color:#AFFF80;">Fixed last devlog regarding what time I posted it.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.1.2.1 <br> 1/18/22 8:45 EST</h3>
+      <ul>
+  <li style="color:#AFFF80;">Fixed last devlog because I didn't put "the" inbetween "for" and "trillionth", should I really log every single update I do? This is getting annoying.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.1.2 <br> 1/18/22 8:43 EST</h3>
+  <ul>
+    <li style="color:#AFFF80;">Fixed the candy page loading "spamton" on the navigation bar instead of the "really, really, really, really long candy page".</li>
+    <li style="color:#AFFF80;">Fixed the Jevil page not loading The World Revolving for the trillionth time.</li>
+    </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.1.1 <br> 1/17/22 22:29 EST</h3>
+    <ul>
+    <li style="color:#AFFF80;">Fixed a few bugs regarding the jevil gif not loading and the huge russian hegemony thing I created.</li>
+    </ul>
+</div>
+<div style="padding:0 16px">
+  <h3 style="color:#E6676B;">Version 0.1 <br> 1/17/22 20:17 EST</h3>
+  <ul>
+  <li style="color:#E6676B;">Finished making the website.</li>
+  </ul>
+</div>
+</body>
+</html>

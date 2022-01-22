@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+	<title>Pughism Two</title>
+	<!-- add icon link -->
+	<link href="acircle.png" rel="icon" type="image/x-icon" />
+	<style type="text/css">body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333; 
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: grey;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: grey;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+	</style>
+</head>
+<body style="background-color:#1c1c1c;">
+<div class="navbar">
+  <a href="https://jevils.com">Home</a>
+  <div class="subnav">
+    <button class="subnavbtn">Menu <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="blog">Blog</a>
+      <a href="about">About</a>
+      <a href="FAQ">FAQ</a>
+      <a href="jevil">The Actual "Jevil" Part of this Website</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">HTML Testing <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="move">Moving Image</a>
+<a href="candy">Really, really, really, really long page with candy</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Projects <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="AustriaHungary">United States of Danubia </a>
+    <a href="music">Music </a>
+    <a href="videos">Videos/Recordings </a>
+    <a href="youtube">Youtube Uploads </a>
+    </div>
+  </div>
+  <div class="subnav">
+      <button class="subnavbtn">Archive <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="PughismTwo">Pughism Two</a>
+        <a href="PughismThree">Pughism Three</a>
+        <a href="ReallyBigText">me when the soviet union</a>
+    </div>
+  </div>
+  <a href="devlog">Devlog</a>
+  <a href="plans">Planned Features</a>
+<a href="credits">Credits</a>
+</div>
+
+<div style="padding:0 16px">
+<h3 style="color:white;"><span style="font-size:20px;">Pughism 2: Electric Boogaloo</span></h3>
+
+<p style="color:white;">Chapter 1</p>
+
+<p style="color:white;">So I was on my way going back to this random store when a tornado decided to explode the entire building. I sensed this weird force pulling me from the situation! GASP! It was Pug Lord! It said: &ldquo;পদৈ ্গ্ বদহ কলদৈ ূপোূ ূপগে োলূালমা ্দােলূ সোকা োলব োলো&rdquo; It made so much sense. Almost&hellip; too much sense. So I went off to find the dude in the yellow jacket and entered a random car and found him. He of course said &ldquo;GET OUT OF MY CAR!&rdquo; I asked him to come, and he barked at me. He followed me, but then a tsunami came, so we just decided to teleport into space with the help of Lord Pug. We didn&rsquo;t know what to do then, so we went to an ocean planet and found a dog named &ldquo;Boat Dog&rdquo;. He randomly started singing but then we came together, trying to find another person to help with the mission that we thought about. Boat dog said to go to a planet where dogs are considered humans. We entered a parallel dimension, went to the planet, and then found the planet Boat Dog said to go to. The planet was filled with dogs, then Boat Dog directed us to a random dude who told us to go to a planet made out of butter. We went there and found it was actually made out of refrigerators, not butter. We asked a refrigerator, then directed to a palace containing Butter Dog!</p>
+
+<p style="color:white;">Chapter 2</p>
+
+<p style="color:white;">Butter Dog helped us get out of the planet and we all decided to go back to Earth. We teleported to Earth, then decided to go back to the store, which was rebuilt. We&rsquo;ve been gone for two milliseconds! Society looked so different, there was a piece of gum on the road&hellip; We bought some snacks and money as well. We looked into the sky and there was a gigantic Chihuahua in the sky, we were so traumatized that we called Lord Pug. Lord Pug tasked us to attack the Chihuahua until it was defeated. We decided to prepare for this by planning attacks. We bought a lot of weapons, which was legal in Wisconsivirginivertexarhopennsylvahijernevamissoumarylakentuckansiowllinoihawaconnalaskabamzonasasnialowaroridrgihianisianainessachusettsichigasotississippontanabraskapshirexicorkrolinakotalahomaregonennessetahingtonyoming, we then went into cars but then the yellow jacket dude asked the person inside of the car to &ldquo;GET OUT OF MY CAR!&rdquo; The person looked traumatized, gave all of their lipstick to us, and then exited the car, with some bruises. We then went to New Bork, where we asked some random dude on the street with a sign that says &ldquo;I&rsquo;m poor, please give me the money&rdquo;, we asked the person with the sign for some money, but ran away and left cold soup. We drank the soup, then dropped the bowl upward. We drove the car into space and then back into the sky to attack the Chihuahua.</p>
+
+<p style="color:white;">Chapter 3</p>
+
+<p style="color:white;">So we went to the Chihuahua and decided to surprise attack it. We dropped a nuclear bomb on the Chihuahua, which didn&rsquo;t work. We then decided to drop a thermonuclear hydrogen bomb on the Chihuahua, which still didn&rsquo;t work. We went to the clouds and the clouds were flying in the air. This was surprising because in Math class they taught us that clouds are on the ground. The Chihuahua said &ldquo;hello your computer has virus&rdquo;, in which Boat Dog ran away due to those words. Now it was just me, Butter Dog, and Yellow Jacket guy. I still have the same trick up my sleeve. &ldquo;This is not anime fight&rdquo; I said. The Chihuahua ran away into space, where we followed it, then decided to not go into space, and went to a parallel universe with dogs as overlords. We went there, got Boat Dog back, teleported to the Chihuahua and go for Round 2.</p>
+
+<p style="color:white;">Chapter 4: The Font Changed</p>
+
+<p style="color:white;">So we went to the Chihuahua and defeat him once and for all. We dropped a super duper extra nuclear bomb, where the Chihuahua evacuated into Oatmeal Planet. We decided to leave him alone for a bit, when Lord Pug decided to task us with attacking Mr. Fluffy Bunny. Butter Dog looked like he recognized this name. Lord Pug teleported to its location, where it had a bunch of eggs, which looked like viruses, but were actually eggs, due to the fact, that the viruses looked like eggs. We sent Yellow Pug Jacket Guy and Boat Dog to explore the area, while we stayed there. They found Mr. Fluffy Bunny, and attacked it, but failed. They ran back to us, and then Yellow Pug Jacket Guy screamed at Mr. Fluffy Bunny, saying &ldquo;GET OUT OF MY CAR, NOW!&rdquo; Then Boat Dog also responded with &ldquo;Raus aus meinem Auto, jetzt!&rdquo; I didn&rsquo;t know what it meant, but it meant something. Mr. Fluffy Bunny ran away, probably due to Boat Dog speaking Russian German. We went back to Earth and ate humans, but than spat them out and ate cheese as well as some coarse road. The road was hard, but we eventually swallowed it, giving Boat Dog salmonella. We looked at the salmonella and it said &ldquo;Hey Kids.&rdquo;. This event was so traumatizing we left Earth, and went to nuke Japan just in case. Then Japan retaliated, but then nuked it again just in case. Japan retaliated, then nuked it. For some reason, we noticed the font size get bigger, but we didn&rsquo;t know why. We saw a dude reading Manga and decided to nuke him, and Lord Pug tasked us with an unknown dude.</p>
+
+<p style="color:white;">Chapter 5: Still don&rsquo;t know why the font changed earlier&hellip;</p>
+
+<p style="color:white;">The random dude said he was &ldquo;Sir&rsquo; Basserlot&rdquo;, but then he said he was &ldquo;Carter Whaleson&rdquo;, then stuck with &ldquo;Carter with the Artery&rdquo;. Pug Lord tasked us with defeating a cartoon character named &ldquo;Phineas&rdquo;, he looked like a triangle but actually was trapezoid. Pug Lord in turn for defeating Mr. Fluffy Bunny gave us a secret: &ldquo;Babies come from the ground, collon is a semi-colon&rdquo;. I was interested in this, but everyone else was not. Pug Lord teleported us back in a woosh, in which we did not know why the woosh turned bold. Did we get r/wooshed? Only Lord Pug knows. We went to France and went to a random store, and Boat Dog robbed a bakery. The bread was stale, and Boat Dog decided to go up to a random human. He screamed &ldquo;HITLER WHAT ARE YOU DOING?!&rdquo; and the French person raised up a white flag. He then slapped the person with the French baguette and died instantly. Then the person revived, then died in a tornado. Carter with the Artery directed us to the planet with Phineas on it, and we teleported instantly to there. Phineas was looking at a Wikipedia article named &ldquo;Japanese War Crimes&rdquo; and Phineas said &ldquo;Ferb, I know what we&rsquo;re going to do today!&rdquo;</p>
+
+<p style="color:white;">Chapter 6: We owe some beers now&hellip;</p>
+
+<p style="color:white;">So we went to fight Phineas and decided to nuke him with Uganda, but that didn&rsquo;t go very well, since Uganda is a country, not a hydrogen bomb. We improvised by kamikazing into him and Ferb, killing them, but they didn&rsquo;t die. Yellow Jacket Pug guy screamed &ldquo;GET OUT OF MY CAR!&rdquo; at Ferb and he ran away to the United Kingdom. Phineas used an anime attack, but then died due to no plot shields existing in this book. The Yellow Jacket Pug dude said &ldquo;YOU OWE ME A BEER, NOW!&rdquo;, but then we teleported back to Earth leaving The Yellow Jacket Pug dude behind. We decided to nuke Japan again, and went back in time to do bad things, but then good things, then bad things. We used a Shiba Inu to take over all of Korea, and a few years later, nothing happened. Until then.... Chapter 7: Korea is korean.</p>
+
+<p style="color:white;">Lord Pug told us to bring back The Yellow Jacket Pug dude because he was stuck with Sam O&rsquo;Nella. He kept talking about Thorium rocking, which really confused us when we saw that. We then teleported and also exploded, but did not explode because we teleported. The Yellow Jacket Pug dude said to &ldquo;GET OUT OF MY CAR NOW.&rdquo; We ignored this and teleported him back to Mongolia with us. Lord Pug told us to create a new nation called &ldquo;Pughist State of The World &#39;&#39;, we did that, creating a revolution in China, which gave us Manchuria. We then nuked Japan again, just in case. At that time, Japanese people were dead, but alive, but then dead, but then for some reason became alive. We kept expanding our nation until Lord Pug told us to stop, and nuke the Russians. We did that, and also nuked France because why not? Lord Pug told us that nuking France is not okay, since people there like wine. We apologized and gave Lord Pug an eiffel tower made out of pugs. We then went on a boat and went to New York to stop Coronavid-19. This was successful, but something happened. Wait, nothing happened, then something happened. I heard beeping, as if I just lost my head! We kept expanding our nation after that, but then something struck me right in the stomach, or head, I forget.</p>
+
+<p style="color:white;">Chapter 8: I forgot my name</p>
+
+<p style="color:white;">I forgot my name! Then remembered it. So this caused some problems internally with me, since forgetting my name is actually forgettable. Shocking, I know. I then decided to forget about this incident and nuke Japan once more, right in Tokyo. This caused the Japanese people to become mad at me, but then they remembered I banned anime from existing, so they stopped. Everyone on Earth was happy, except the nuked people. We nuked Mongolia next even though we owned it, it kept the Mongolian people happy, wait, I meant mad. So now the Mongolian people are mad since I nuked them, but then I gave them Uganda, so they become happy again. Since my vocabulary is beyond me, I am not beyond me. Pug Lord said for us to come together and finally defeat the Chihuahua. Together. He teleported us to the Chihuahua, but we all ran away to get the Chihuahua in a bad position where we can exploit it. We jumped into lightspeed away from it, then nuked Japan on the way. The Japanese people died in a tornado, but then revived due to anime not existing. We saw a dragon on the way, which seemed pretty awesome, but then we remembered that Dragons can poop.</p>
+
+<p style="color:white;">Chapter 9: Dragons can poop, I think.</p>
+
+<p style="color:white;">So after we discovered that Dragons can poop, we went back to the Chihuahua, and started to fight it with all we got. Lord Pug advised us to never eat humans on the way, as that is not healthy. This surprised us, since that has to do nothing with the battle. We took Uganda and slapped it on to the Chihuahua, but then the Chihuahua slapped it onto us. This went on for some time until Yellow Jacket Pug Dude slapped https://bit.ly/3jEkU6a onto him, which surprised the Chihuahua. The Chihuahua ran away, not until he was shrunk into a regular Chihuahua, and put into a jail, but then escaped. We ate some chocolate, and Carter with the Artery decided to leave to be with Lord Pug. Boat dog went back and time and slapped himself, but went back to the present date and said goodbye to us, where he went to a random, unknown ocean planet. Butter Dog went back to his refrigerator planet, and Yellow Jacket Pug Dude nuked Japan again just in case. I nuked Uganda as well, and realized once more that Dragons can poop. Mr. Fluffy Bunny came to destroy us, but then I destroyed it, turning it into a very small regular bunny. At this point, it seems like the team has parted ways, but not anymore&hellip;</p>
+
+<p style="color:white;">Chapter 10: Lord Pug Thing</p>
+
+<p style="color:white;">So I was on my way to nuking Japan when Lord Pug talked to us about a mysterious green figure that will turn 35.6% of the population of the universe into dust. This surprised me and Lord Pug, so we went our ways to get the team back together. It would take a long time to get all the members back, since they were all across the universe. We couldn&rsquo;t even teleport to some of them. We got Boat Dog back quickly and Yellow Pug Jacket Dude. Carter With The Artery was in a different dimension at that point, so we almost gave up getting to him. We told them about the mysterious green figure that is about to turn 35.6% of the universe into dust. This would surprise everyone, and all of us would start looking for anyone that can help destroy the green figure. We asked Mr. Fluffy Bunny to join us, and he accepted. We all gathered around in a shop, but then died in a tornado, but then revived. We ate some more chocolate, and bought some supplies. On our way to a different store, we decided to do something different for once, and nuke Hong Kong. We actually did it twice, just for sure. The green figure was approaching the planet, and we needed help&hellip; quickly. We set up weird defenses that looked like Chihuahuas to stop the weird green figure from turning 35.6% of the universe into dust, and Boat Dog was preparing his baguette. We were all ready to attack the green figure, but when he would come, is unknown.</p>
+
+<p style="color:white;">Chapter 11: The Final Chapter</p>
+
+<p style="color:white;">A few days would pass until the green figure would come, with an entire army. He started throwing nukes at us, and we would do the same. He would come down and start attacking us. The ground would be musty and nuclear, with the green figure slowly approaching us. Mr. Fluffy Bunny went for it but for some reason ran away because he heard a barking noise. What was it? It was the giant Chihuahua! It started to smash the green figure into the ground, and we would do the same. Boat dog would start preparing the baguette, until the green figure stole the baguette and pushed everyone back. He broke the baguette into pieces and stole a little bit of the bread and put it into his chest. He looked like he was about to clap, until Butter Dog came and broke one of his wrists. We all started to attack him at once, until his wrist healed and started to push everyone back. Carter with the Artery smacked down onto the green figure, and the Chihuahua would start to pierce into his green skin, until he pushed Carter with the Artery into space and the Chihuahua as well. We started to nuke everyone in the area, using bioweapons as well to stop him from clapping. There would still be part of the baguette on the ground, so we took this to our advantage. We used part of the baguette to attack the green figure, which damaged him a lot. Carter with the Artery healed and smashed right back onto the green figure. We stopped the green figure from clapping, since almost everyone pinned him down. Yellow Jacket Pug Dude decided to slap him with https://bit.ly/3jEkU6a, but the green figure was immune to it. The Sam&rsquo;O Nella dude came. &ldquo;Your computer has virus&rdquo; also came to stop him, which scared the boat dog into oblivion. We used the defenses stationed there to stop the green figure from clapping ever again, but somehow the green figure pushed everyone away, and prepared to clap. With all of our defenses down, there would be nothing we could do, but watch. The green figure clapped. Slowly, I saw Sam&rsquo;O Nella turn into dust. The giant chihuahua would turn into dust. Carter with the Artery turned into dust. Boat Dog turn into dust. And faintly, Lord Pug would turn into dust.</p>
+</div>
+</body>
+</html>

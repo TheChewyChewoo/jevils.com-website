@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <meta charset = "utf-8" />
+          
+        <title>
+            Jevils
+        </title>
+          
+        <!-- add icon link -->
+        <link rel = "icon" href = 
+"acircle.png" 
+        type = "image/x-icon">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333; 
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: grey;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: grey;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+</style>
+</head>
+<body style="background-color:#1c1c1c;">
+
+<div class="navbar">
+  <a href="https://jevils.com">Home</a>
+  <div class="subnav">
+    <button class="subnavbtn">Menu <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="blog">Blog</a>
+      <a href="about">About</a>
+      <a href="FAQ">FAQ</a>
+      <a href="jevil">The Actual "Jevil" Part of this Website</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">HTML Testing <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="move">Moving Image</a>
+<a href="candy">Really, really, really, really long page with candy</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Projects <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="AustriaHungary">United States of Danubia </a>
+    <a href="music">Music </a>
+    <a href="videos">Videos/Recordings </a>
+    <a href="youtube">Youtube Uploads </a>
+    </div>
+  </div>
+  <div class="subnav">
+      <button class="subnavbtn">Archive <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="PughismTwo">Pughism Two</a>
+        <a href="PughismThree">Pughism Three</a>
+        <a href="ReallyBigText">me when the soviet union</a>
+    </div>
+  </div>
+  <a href="devlog">Devlog</a>
+  <a href="plans">Planned Features</a>
+<a href="credits">Credits</a>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:white;">Context</h3>
+  <p style="color:white;">This is essentially a thought experiment for me, explaining how a Danubian Federation could work. I might even make a constitution, who knows? ¯\_(ツ)_/¯</p>
+  <br>
+  <h3 style="color:white;">The United States of Danubia</h3>
+  <br>
+    <h4 style="color:white;">Government</h4>
+  <p style="color:white;">it has four branches of government - </p>
+<p style="color:white;">executive, legislative, judicial and alterative</p>
+<p style="color:white;">executive - works just like the us (within the executive there's an extra bureau called the Bureau of Ethnical Management)</p>
+<p style="color:white;">legislative - works just like the us, except they cant change the constitution or legal documents they make</p>
+<p style="color:white;">judicial - works just like the us</p>
+<p style="color:white;">alterative - can change legal documents over time to fit with the time period. executive can check on this branch by approving or vetoing any changes. alterative can check back by electing the vice prime minister. legislative can check on this branch by electing the Minister of Alteration, the leader of the Alterative Branch every year. Minister of Alteration can get re-elected three times. alterative can check on the legislative by changing laws made if needed. judicial can check on the Alterative branch by checking if the amends to any laws fit with the constitution. not sure how the alterative branch would check on the judicial</p>
+<p style="color:white;">also the Minister of Alteration basically enacts the changes</p>
+<p style="color:white;">president is elected by the population directly and doesnt use the stinky electoral college (ew)</p>
+<p style="color:white;">for the legislative branch, congress has 3 people per state and for house it depends on population </p>
+<p style="color:white;">judicial is the same</p>
+<p style="color:white;">for the minister of alteration to be elected there must be more than 50% in favor of it for both houses, during this period the head of the supreme court can appoint an emergency minister if needed</p>
+<p style="color:white;">so basically:</p>
+<p style="color:white;">39 people in congress</p>
+<p style="color:white;">226 people in house + 2 from vienna</p>
+</div>
+    <h1 style="color:white;">Danubia State Map</h1>
+<img src="United States of Danubia.png" alt="danubia states">
+</body>
+</html>
