@@ -13,6 +13,15 @@
         <link rel = "icon" href = 
 "acircle.png" 
         type = "image/x-icon">
+                                <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+        <script> $(function(){
+$('#header').load("navbar.html");
+} );
+
+</script>
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -80,45 +89,7 @@ body {
 </head>
 <body style="background-color:#1c1c1c;">
 
-<div class="navbar">
-  <a href="https://jevils.com">Home</a>
-  <div class="subnav">
-    <button class="subnavbtn">Menu <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="blog">Blog</a>
-      <a href="about">About</a>
-      <a href="FAQ">FAQ</a>
-      <a href="jevil">The Actual "Jevil" Part of this Website</a>
-    </div>
-  </div> 
-  <div class="subnav">
-    <button class="subnavbtn">HTML Testing <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="move">Moving Image</a>
-<a href="candy">Really, really, really, really long page with candy</a>
-    </div>
-  </div> 
-  <div class="subnav">
-    <button class="subnavbtn">Projects <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="AustriaHungary">United States of Danubia </a>
-    <a href="music">Music </a>
-    <a href="videos">Videos/Recordings </a>
-    <a href="youtube">Youtube Uploads </a>
-    </div>
-  </div>
-  <div class="subnav">
-      <button class="subnavbtn">Archive <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="PughismTwo">Pughism Two</a>
-        <a href="PughismThree">Pughism Three</a>
-        <a href="ReallyBigText">me when the soviet union</a>
-    </div>
-  </div>
-  <a href="devlog">Devlog</a>
-  <a href="plans">Planned Features</a>
-<a href="credits">Credits</a>
-</div>
+<div id="header"></div>
 
 <div style="padding:0 16px">
   <h3 style="color:white;">oh my gosh a moving dog!</h3>

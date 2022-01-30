@@ -13,6 +13,15 @@
         <link rel = "icon" href = 
 "acircle.png" 
         type = "image/x-icon">
+                        <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+        <script> $(function(){
+$('#header').load("navbar.html");
+} );
+
+</script>
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -80,48 +89,54 @@ body {
 </head>
 <body style="background-color:#1c1c1c;">
 
-<div class="navbar">
-  <a href="https://jevils.com">Home</a>
-  <div class="subnav">
-    <button class="subnavbtn">Menu <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="blog">Blog</a>
-      <a href="about">About</a>
-      <a href="FAQ">FAQ</a>
-      <a href="jevil">The Actual "Jevil" Part of this Website</a>
-    </div>
-  </div> 
-  <div class="subnav">
-    <button class="subnavbtn">HTML Testing <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="move">Moving Image</a>
-<a href="candy">Really, really, really, really long page with candy</a>
-    </div>
-  </div> 
-  <div class="subnav">
-    <button class="subnavbtn">Projects <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="AustriaHungary">United States of Danubia </a>
-    <a href="music">Music </a>
-    <a href="videos">Videos/Recordings </a>
-    <a href="youtube">Youtube Uploads </a>
-    </div>
-  </div>
-  <div class="subnav">
-      <button class="subnavbtn">Archive <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="PughismTwo">Pughism Two</a>
-        <a href="PughismThree">Pughism Three</a>
-        <a href="ReallyBigText">me when the soviet union</a>
-    </div>
-  </div>
-  <a href="devlog">Devlog</a>
-  <a href="plans">Planned Features</a>
-<a href="credits">Credits</a>
-</div>
+<div id="header"></div>
 
 <div style="padding:0 16px">
   <p style="color:white;">Logs colored in RED are major updates, Logs colored in GREEN are minor updates.</p>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#E6676B;">Version 0.5 <br> 1/29/22 11:03 EST</h3>
+  <ul>
+  <li style="color:#E6676B;">Added new page.</li>
+    <li style="color:#E6676B;">Changed the code of the navigation bar so adding new pages is easier.</li>
+      <ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#E6676B;">Version 0.4 <br> 1/25/22 16:46 EST</h3>
+  <ul>
+  <li style="color:#E6676B;">Added new page.</li>
+    <li style="color:#E6676B;">beetle king</li>
+      <ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.3.2.1.1 <br> 1/24/22 18:32 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">Fixed the new Youtube video not loading.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.3.2.1 <br> 1/24/22 18:30 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">Added another section under the Youtube page.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.3.2 <br> 1/24/22 8:55 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">Added recent Youtube videos to the Youtube page.</li>
+  </ul>
+</div>
+
+<div style="padding:0 16px">
+  <h3 style="color:#AFFF80;">Version 0.3.1 <br> 1/21/22 20:18 EST</h3>
+  <ul>
+  <li style="color:#AFFF80;">Github page added to the FAQ</li>
+  </ul>
 </div>
 
 <div style="padding:0 16px">

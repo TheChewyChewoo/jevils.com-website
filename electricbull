@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+	<title>Jevils</title>
+	<!-- add icon link -->
+	<link href="acircle.png" rel="icon" type="image/x-icon" />
+	
+	                        <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+        <script> $(function(){
+$('#header').load("navbar.html");
+} );
+
+</script>
+
+	<style type="text/css">body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333; 
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: grey;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: grey;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+	</style>
+</head>
+<body style="background-color:#1c1c1c;">
+<div id="header"></div>
+
+<div style="padding:0 16px">
+<p style="color: white;"><b id="docs-internal-guid-cf9c0c24-7fff-cdf9-ca4c-76b0619fa8e8">Box 2: Electric Bull</b></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><strong>Episode 1</strong></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">When a strong wind was passing home, I returned to the grocery store. I feel the pull on me! Cool! Oh Isaac! &quot;It is,&quot; he said. Oh the most cerebral&hellip;&nbsp; Here I met a guy in a yellow shirt, got in every car and ran to him. Of course, I told him to get out of my car and hit me. I followed him, but it was a tsunami, so I decided to call Sir Pug. Surprisingly, we went to an ocean on the beach and spotted a dog named Fighting Dog. Suddenly he started reading, but we came along and found someone who was lost. Boats can take dogs to the planet for human reason. We took a parallel plane, came home and found a dog home on the plane. The country is full of dogs, so the botanical dog accidentally brings a friend to Butterfly. When I walked in I found that it was cooking in the fridge, not in the oil. I found a refrigerator. I took a hot dog to a private house.</p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><strong>Episode 2</strong></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">The dog oil helped us get off the ground and we all decided to go back. He decides to teleport to the ground and decides to return to the repaired tent. I have milliseconds. Society is very different. Street life is hectic... we buy food and money. We are in the middle of nowhere and there is a big chihuahua swamp in the sky and the village lord. We have to address the problem.&nbsp;We have many legal weapons. Often we have a man who did not dare to look at our red lips and got out of the car several times. Then we go to New York: &quot;I&#39;m poor, please give me the money.&quot; I left a plate after the soup. After the spaceship, we attacked the Chihuahua again.</p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><b>Episode 3</b></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">So we chose Chihuahua and we were surprised. The Chihuahua dropped the atomic bomb, but failed. So he decided to put the chihuahua in the fridge. Always without Mughana. It will fly in the cloud, and the cloud will fly in the sky. It was great to see the clouds on the ground during math class. Botany is free. &quot;Hello, your computer has a virus.&quot; Now it&#39;s just a fat dog with yellow fur. I still have the same abilities. I&#39;m not talking about anime war. The Chihuahua jumped into the room to chase us, the owner decided not to enter the room, but to enter the room like a dog. let&#39;s come here. He unloaded the dog and went back to the chihuahua one by one.</p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><b>Part 4 Changed fonts.</b></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">So let&#39;s go to Chihuahua and win only once. An atomic bomb hit his teeth. If the beetle king decides to hurt us by attacking the rabbit skin, we decide to leave him. The donkey seems to know the dog&#39;s name. It is believed that Mr. Egg. Tiger egg shape. While we were there we took the yellow dog and baby on our boat. You. Flavius ​​Brown found him and attacked him in vain. He loves working and working for chefs at the prom. Fluffy Rabbit said, &quot;Get out of my car.&quot; Then Patan said. &quot;Get out of my car.&quot; I won&#39;t say anything but the same. Gentlemen. Flavius ​​Brown flees at the end of a Russian dog. We sell to the village for both files and drinks. I spat and slept cheese. The journey was difficult, but in the end he swallowed it and gave it to the dog Salmonella. Look at salmonella and say &quot;kids&quot;. It was a tragedy to leave our country for Japan. The Japanese were expelled there. Japan responded to the attack. For some reason we noticed that the font size has increased, but we don&#39;t know why. When I saw someone reading the manga, I decided to delete it. The beetle king united the aliens.&nbsp;</p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><strong>Chapter 5: I don&#39;t know why the line was changed first ...</strong></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">Someone said &quot;become Brazillot&quot;, but Carter Wilson said &quot;Carter Wilson&quot; and put it in a &quot;vase&quot;. The Lord commanded. Carlin is a failed character in the animated film &quot;Phoenix&quot;. It has a triangular shape, but in reality it is a worm. Meanwhile, Pug admitted to Mr. Gentleman. Fluffy rabbits reveal secrets to us. &ldquo;The kids are out of town and the colon is half the stomach. I want to know, but nobody knows.&#39; The Lord will judge our hair again because we don&#39;t know why our hair is so big. Can r/wooshed be used? Gentlemen. I meet Pug. I went to France. I went to the store. This button was stolen from the bakery. The jar is very old. Patan accidentally decides to visit someone. - What did Hitler do? France raises a white flag. The man sent a French signal and died on the spot. Adam eventually rose from the dead and died in the storm. After the vet published a war crimes article on Wikipedia, Venus sent Carter to Earth and Venus said, &quot;Hey, I know what you&#39;re doing now.&quot;</p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><b>Chapter 6: Now we have the beer</b></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">So despite the decision to attack Phoenix and Uganda, the H-bomb didn&#39;t hit Uganda like any other country. We went in and he and Phoebe were killed, but they were not killed. &quot;Get out of my car.&quot; He fled to England and Faber. Finhas uses anime attacks, but in the books he dies without any strange weapons. As soon as the boy in the yellow jacket said, &quot;Wait a minute, boy,&quot; he said, put on his yellow shirt, went back to the ground and left immediately. Destroy Japan again; to return to evil; they are determined to do good and return to evil. With Shiva&#39;s help, he attacked all of Korea and for years nothing happened. kaniatu &hellip;</p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><b>Chapter 7 Korea Korea Korea.</b></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">Lord Pogue asked the boy to wear a yellow jacket because he was on a date with Sam O&#39;Neal. When he saw her, he explained the problem to her. He later exploded in telecommunications, but did not explode when teleported to Teleportation. &quot;Get out of my car,&quot; the boy in the yellow shirt said. He was ignored and sent to Mongolia. Gentlemen. Pogue called for a new nation called the World Pig Empire and created and overthrew China and Manchuria. Then Japan burned again. Then the Japanese were killed, but still alive, but later died and for some reason were resurrected. We keep expanding our country to Mr. Bo says we have to stop and beat the Russians. Yes, why is it burning in France? Sir. Bug told us that the disaster in France was unfair, where people love wine. We apologized and handed over the Eiffel Tower built by the battalion to Lord Worm. He then boarded, stopped at Coronvid-19 and drove to New York. It worked, but something happened. Please wait. It&#39;s OK. Something happened. I heard a voice disappear from my head. We are also expanding our city. But something hit me in the stomach or the head. I forgot</p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><b>I forgot the title of chapter 8.</b></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">I forgot my name! So remember. So I forgot my name and got in trouble. I know. So I forgot and decided to bring Japan back as Tokyo. The Japanese were mad at me, but they warned me to stop and celebrate. Everyone in the world is happy except the bombers. I&#39;m not crazy because I came across it. The Lord told us to unite and finally defeat Chihuahu. He challenged us to bring a chihuahua, but we all ran wherever we could take him with the chihuahua. We traveled briefly to Japan. arit. The Japanese perished in the typhoon, but were later resurrected by animation. Along the way we saw a strange looking dragon, but we were reminded that the dragon had won.&nbsp;</p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><b>Episode 9: Dragon feces</b></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">So when we know that the dragon is destroying us, we turn to the Chihuahua and launch an attack in our style. Do not eat on the street, this can harm your health. Ask for advice. I&#39;m surprised it has nothing to do with war. We defeated Uganda and Chihuahuu. Then he shot a chihuahua. Yellow pug jacket https://bit.ly/3jEkU6a surprised the chihuahuas for a long time. The chihuahua did not escape due to an injury. eat chocolate. Carter has decided to stay with Lord Pugl. The ship&#39;s dog followed him and grabbed him, but that day he set out for the unknown sea world. The oil returned to the planet hot and cold, and a friend in a yellow cloak returned to Japan. He also painted in Uganda. One day I realized I could swallow dragons. Gentlemen. Fluffy Brown approached us and shared. But I ruined it and became a rabbit. So far, the group&#39;s approach seems isolated, but...</p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><b id="docs-internal-guid-cf9c0c24-7fff-cdf9-ca4c-76b0619fa8e8">Chapter 10: Lord Pug Running</b></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">Japan was on the brink of extinction at the time, when the king of beetles recounted a mysterious green fantasy that controls 35.6% of the world&#39;s population. Bug King B was stunned. So I joined this group. It takes a long time before all members are back in the room. I can&#39;t even send messages. I quickly turned to the dog&#39;s yellow hair. At the time, we were desperate for Carter. He told them about a mysterious green image that covers 35.6% of the universe. All this may surprise us. We all need to find someone to help us spread our green image. Kim Zed Fluffy Brown asked us to join and she said yes. We all lived in a tent, but we didn&#39;t find it after the storm. I ate chocolate and things like that. When we go to the store, we decide in time and the plane crashes. We are very different. The green world is gone and we need help. About 35.6 percent of the world&#39;s vegetation is dusty and the Chihuahua looks like a bag. We&#39;re all ready for the green light of life, but now it&#39;s time to tell the story.</p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;"><b>Chapter 11 The last chapter</b></p>
+
+<p style="color: white;"></p>
+
+<p style="color: white;">Then move the flowers until they are green. We have nuclear power and we have it. He attacked and attacked us. I know that the green print is a flower, a water. mr. Fluffy Brown heard the lion, but for some reason he ran away and screamed. Mantas captured. First click on the green image, then we will do the same. Behind the Navigator S, Green produces a bag for theft and loss of photos. He tore off his bag and stole it. One of the tastiest treats for a dog is having a hot buffet. We bought it right away. Carter winced when he heard this, the chihuahua coughed and Carter held up the chihuahua&#39;s thoughts in the air. We have started preparations to build a biomar applause. There is also a small bag on the floor so we have a good chance. I will never leave you and I will never leave you. Carter said he wanted to make sure it wasn&#39;t. We can never find the right person for the wrong reasons. Pug Dude decided to get a good coat https://bit.ly/3jEkU6a, but the edition is free. His son Sam Neill came. &quot;It&#39;s a computer,&quot; he said. As a child I didn&#39;t know what to do with my life. We&#39;re not interested in that. There will be no shame. Sam watched as Nella slowly turned to dust. Chihuahuas turned to dust. The letters turn to human dust. The boat turned to dog dust. Baba Baghum and woddd fumbi fumbi. Father Bagum became weak to the dust.</p>
+</div>
+</body>
+</html>
